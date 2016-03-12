@@ -1,23 +1,5 @@
 # 10/27/15 
 
-___This homework is due by 8am, on 10/28/15___
-
-### Pair Programming Groups
-
-For this part of the assignment, you will be broken up into pairs and will be required to use the style of [Pair Programming](http://en.wikipedia.org/wiki/Pair_programming) in order to complete the assignment.
-
-### Learning Objectives
-
-After completing this assignment, you should:
-
-* Understand how to collaborate using Git & Github
-* Understand the basics of jQuery `$.ajax()` and `$.getJSON()`
-
-## Deliverables
-
-1. Create a repo on git that you will use for your project.
-2. Send me an email with subject `Assignment 13 - Pair Programming` with a link to that repo.
-3. Let's not forget pull requests and forking ;)
 
 ## Normal Mode (Pair Programming)
 
